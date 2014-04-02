@@ -1,0 +1,2 @@
+(number of lines)
+(weight 0);(weight 1);...;(weight 14);(games played);(total score);(high score)
